@@ -13,6 +13,7 @@ The Bookstore Project is a Spring Boot application designed to manage a collecti
 ---
 
 ## Instructions on How to Run the Project
+- Attached SQL scripts for table and Postman collection
 
 ### 1. Clone the Repository
 To get started, clone the repository to your local machine:
